@@ -19,23 +19,18 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/cgrtml/snake-gif/blob/main/github-contribution-grid-snake.gif)
 
-<h1 align="center">Hi 👋, I'm Volkan TAS</h1>
+<h1 align="center">Hi 👋 I'm Volkan TAS</h1>
 <h3 align="center">Software Development Engineer in Test(SDET) Manual and Automation Testing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cgrtml&label=Profile%20views&color=0e75b6&style=flat" alt="cgrtml" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cagritml" target="blank"><img src="https://img.shields.io/twitter/follow/cagritml?logo=twitter&style=for-the-badge" alt="cagritml" /></a> 
- <br><br>
-<a href="https://instagram.com/cgrtml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cgrtml" height="30" width="40" /></a>
-</p>
 
 - 🔭 I’m currently working as a *Senior Software QA Engineer/SDET*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cagritml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cagritml" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cagritemel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagritemel" height="30" width="40" /></a>
-<a href="https://medium.com/@cagritemel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagritemel" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/volkan-tas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagritemel" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages:</h3>
